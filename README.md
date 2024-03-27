@@ -27,5 +27,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Special thanks to the developers of Blynk for providing a powerful IoT platform for mobile applications.
 
 ---
-
-Feel free to customize this README further with specific instructions, troubleshooting tips, or additional details relevant to your project.
+The link to the detailed description - https://ieeexplore.ieee.org/document/10404429.
